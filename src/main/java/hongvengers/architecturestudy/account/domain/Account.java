@@ -44,6 +44,6 @@ public class Account {
     }
 
     @Value
-    private static class AccountId {
+    public static class AccountId {
     }
 }
