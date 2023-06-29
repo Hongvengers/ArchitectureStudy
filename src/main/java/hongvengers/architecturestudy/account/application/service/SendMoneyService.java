@@ -6,8 +6,10 @@ import hongvengers.architecturestudy.account.application.port.out.UpdateAccountS
 import hongvengers.architecturestudy.account.application.port.in.SendMoneyCommand;
 import lombok.RequiredArgsConstructor;
 import lombok.Value;
+import org.springframework.stereotype.Component;
 
 @RequiredArgsConstructor
+@Component
 public class SendMoneyService implements SendMoneyUseCase {
     private final LoadAccountPort loadAccountPort;
     private final AccountLock accountLock;
