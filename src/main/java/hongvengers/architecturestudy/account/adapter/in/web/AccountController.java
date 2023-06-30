@@ -1,8 +1,7 @@
-package hongvengers.architecturestudy.account.adapter.web;
+package hongvengers.architecturestudy.account.adapter.in.web;
 
 import hongvengers.architecturestudy.account.application.port.in.SendMoneyCommand;
 import hongvengers.architecturestudy.account.application.port.in.SendMoneyUseCase;
-import hongvengers.architecturestudy.account.domain.Account;
 import hongvengers.architecturestudy.account.domain.Account.AccountId;
 import hongvengers.architecturestudy.account.domain.Money;
 import lombok.RequiredArgsConstructor;

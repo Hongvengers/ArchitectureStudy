@@ -1,4 +1,7 @@
 package hongvengers.architecturestudy.account.application.port.out;
 
-public class UpdateAccountStatePort {
+import hongvengers.architecturestudy.account.domain.Account;
+
+public interface UpdateAccountStatePort {
+    void updateActivities(Account account);
 }
