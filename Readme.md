@@ -1,4 +1,5 @@
-![Make_Clean_Architecture.jpg](..%2F..%2Ffor_velog%2FClean_Architecture%2FMake_Clean_Architecture.jpg)
+![Make_Clean_Architecture](https://github.com/Hongvengers/ArchitectureStudy/assets/66003338/17b06dba-64ca-4fe8-8859-d74ae18667bf)
+
 
 > [📖] [만들면서 배우는 클린 아키텍처](https://wikibook.co.kr/clean-architecture/) <br>
 > 해당 문서는 위의 서적을 읽고 개인적으로 정리한 내용입니다. <br>
