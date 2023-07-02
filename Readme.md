@@ -38,7 +38,8 @@
 # 계층형 아키텍처
 계층형 아키텍처(Layered Architecture)란 소스코드의 역할 및 **관심사에 따라** 각각 계층 이라는 틀로 **분리**한 아키텍처 입니다. <br>
 n-Tier 아키텍처 라고도 하며, 계층의 수를 직접적으로 제한하지는 않지만 일반적으로 3가지의 계층으로 나뉘어서 설계하게 됩니다. <br>
-![layered_architecture.png](..%2F..%2Ffor_velog%2FClean_Architecture%2Flayered_architecture.png) <br>
+<br>
+![layered_architecture](https://github.com/Hongvengers/ArchitectureStudy/assets/66003338/30a02110-57b4-4dc0-b750-27b51ec8eb97) <br>
 간략하게 표현하면 계층형 아키텍처는 위와 같은 구조를 갖게 됩니다.
 ### Presentation Layer(표현 계층)
 - 클라이언트로부터 **요청을 받아**, 도메인 계층으로의 **전달을 담당**하는 계층입니다.
